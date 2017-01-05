@@ -1,5 +1,5 @@
 #!/bin/bash
-rm -rf ssr.sh
+rm -rf ssrlk.sh
 web="http://"; 
 webs="https://"; 
 error="Authorization failure."; 
