@@ -14,9 +14,7 @@ CopyrightLogo='
 							  
 		           ShadowSocks多用户管理系统v2版
 
-		           采用SSR+ss-panel2流控管理系统
-
-			                               All Rights Reserved							                  	
+		           欢迎访问 奔放网:benfw.cn                               All Rights Reserved							                  	
 ==========================================================================';
 echo "$CopyrightLogo";
 # FILES  ******************************************************************
@@ -24,7 +22,7 @@ ServerLocation='master';
 # VAR	******************************************************************
 Model=$1;
 Froms=$2;
-MirrorHost='github.com/mu228/ssr/raw';
+MirrorHost='github.com/dimi360/ssr/raw';
 IPAddress=`wget http://members.3322.org/dyndns/getip -O - -q ; echo`;
 #==========================================================================
 echo 
